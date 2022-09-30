@@ -7,7 +7,7 @@ ubah tampilan termux Anda menjadi lebih baik.
     $ apt install git
     $ apt install php
     $ git clone https://github.com/IxaDOC/TERMUX-STYLE-XBOT
-    $ cd TERMUX-STYLE
+    $ cd TERMUX-STYLE-XBOT
     $ php TERMUX-STYLE
 
 itu mudah, bukan?
